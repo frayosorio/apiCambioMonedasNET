@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Ejercicios\\apiCambiosMoneda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|d:\\catedra\\itm\\administracion de sistemas\\ejercicios\\apicambiosmoneda\\apicambiosmoneda.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|solutionrelative:apicambiosmoneda.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|d:\\catedra\\itm\\administracion de sistemas\\ejercicios\\apicambiosmoneda\\apicambiosmoneda.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6D04DEF3-781E-40A1-B7C2-2CCB30C8F522}|apiCambiosMoneda.Presentacion\\apiCambiosMoneda.Presentacion.csproj|solutionrelative:apicambiosmoneda.presentacion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Ejercicios\\apiCambiosMoneda\\apiCambiosMoneda.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "apiCambiosMoneda.Presentacion\\appsettings.json",
+              "ToolTip": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Ejercicios\\apiCambiosMoneda\\apiCambiosMoneda.Presentacion\\appsettings.json",
+              "RelativeToolTip": "apiCambiosMoneda.Presentacion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T04:24:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Catedra\\ITM\\Administracion de Sistemas\\Ejercicios\\apiCambiosMoneda\\apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "apiCambiosMoneda.Presentacion\\Properties\\launchSettings.json",
